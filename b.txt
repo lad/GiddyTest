@@ -4,3 +4,5 @@ b.txt
 blah
 
 on issue
+
+another change on issue branch
