@@ -1,4 +1,6 @@
 
+A change on master
+
 b.txt
 
 blah
