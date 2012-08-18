@@ -1,4 +1,4 @@
 test
 ====
 
-Stupid test thing
+Test area for [giddy](http://github.com/giddy) (a vim git plugin)
